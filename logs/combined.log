@@ -1,0 +1,10 @@
+{"level":"info","message":"Server started successfully on port 3000","timestamp":"2026-03-11T06:03:52.082Z"}
+{"level":"info","message":"Server started successfully on port 3000","timestamp":"2026-03-11T06:07:46.117Z"}
+{"level":"info","message":"Server started successfully on port 3000","timestamp":"2026-03-11T06:08:21.966Z"}
+{"level":"info","message":"::1 - - [11/Mar/2026:06:08:27 +0000] \"GET / HTTP/1.1\" 200 43 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0\"","timestamp":"2026-03-11T06:08:27.849Z"}
+{"level":"info","message":"::1 - - [11/Mar/2026:06:10:06 +0000] \"GET /admin/data HTTP/1.1\" 404 149 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0\"","timestamp":"2026-03-11T06:10:06.105Z"}
+{"level":"info","message":"Server started successfully on port 3000","timestamp":"2026-03-11T06:17:47.072Z"}
+{"level":"info","message":"Audit: Variable DB_PASS accessed at 2026-03-11T06:26:18.869Z by admin","timestamp":"2026-03-11T06:26:18.870Z"}
+{"level":"info","message":"::1 - - [11/Mar/2026:06:26:18 +0000] \"POST /admin/data HTTP/1.1\" 200 62 \"-\" \"PostmanRuntime/7.51.1\"","timestamp":"2026-03-11T06:26:18.987Z"}
+{"level":"info","message":"Server started successfully on port 3000","timestamp":"2026-03-11T06:28:20.976Z"}
+{"level":"info","message":"Server started successfully on port 3000","timestamp":"2026-03-11T06:36:10.996Z"}
